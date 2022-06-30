@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_menu">Opciones</string>
+    <string name="redes_soci">Redes Sociales</string>
+    <string name="trasporte_menu">Transporte</string>
+    <string name="email_menu">Correo</string>
+    <string name="servi_menu">Servicios</string>
+    <string name="news_menu">Noticias</string>
+</resources>
