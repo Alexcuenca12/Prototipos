@@ -7,4 +7,7 @@
     <string name="servi_menu">Servicios</string>
     <string name="news_menu">Noticias</string>
     <string name="Servicios_op">Servicios</string>
+    <string name="ok_contra">Okey</string>
+    <string name="volver_contra">Volver</string>
+    <string name="labelContra">Ingresar Contraseña</string>
 </resources>
