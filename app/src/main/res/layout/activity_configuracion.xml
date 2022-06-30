@@ -35,7 +35,7 @@
                 android:id="@+id/imageView13"
                 android:layout_width="30dp"
                 android:layout_height="30dp"
-                android:layout_marginTop="3dp"
+                android:layout_marginTop="10dp"
                 app:srcCompat="@drawable/favoritos" />
 
             <ImageView
@@ -104,13 +104,14 @@
                 android:id="@+id/configuracion"
                 android:layout_width="match_parent"
                 android:layout_height="30dp"
-                android:textAlignment="center"
+                android:gravity="center_vertical"
                 android:text="Configuración" />
 
             <TextView
                 android:id="@+id/txt_favoritos"
                 android:layout_width="match_parent"
                 android:layout_height="30dp"
+                android:gravity="center_vertical"
                 android:layout_marginTop="10dp"
                 android:text="Favoritos" />
 
@@ -118,6 +119,7 @@
                 android:id="@+id/txt_servicios"
                 android:layout_width="match_parent"
                 android:layout_height="30dp"
+                android:gravity="center_vertical"
                 android:layout_marginTop="10dp"
                 android:text="Servicios" />
 
@@ -125,6 +127,7 @@
                 android:id="@+id/txt_seguridad"
                 android:layout_width="match_parent"
                 android:layout_height="30dp"
+                android:gravity="center_vertical"
                 android:layout_marginTop="10dp"
                 android:text="Seguridad" />
 
@@ -132,6 +135,7 @@
                 android:id="@+id/txt_temas"
                 android:layout_width="match_parent"
                 android:layout_height="30dp"
+                android:gravity="center_vertical"
                 android:layout_marginTop="10dp"
                 android:text="Temas" />
 
@@ -139,6 +143,7 @@
                 android:id="@+id/txt_acercade"
                 android:layout_width="match_parent"
                 android:layout_height="30dp"
+                android:gravity="center_vertical"
                 android:layout_marginTop="10dp"
                 android:text="Acerca de" />
 
@@ -146,6 +151,7 @@
                 android:id="@+id/txt_ayudasoporte"
                 android:layout_width="match_parent"
                 android:layout_height="30dp"
+                android:gravity="center_vertical"
                 android:layout_marginTop="10dp"
                 android:text="Ayuda y Soporte" />
 
@@ -153,6 +159,7 @@
                 android:id="@+id/txt_codigoacceso"
                 android:layout_width="match_parent"
                 android:layout_height="30dp"
+                android:gravity="center_vertical"
                 android:layout_marginTop="10dp"
                 android:text="Codigo de Acceso" />
 
@@ -160,6 +167,7 @@
                 android:id="@+id/txt_cerrasesion"
                 android:layout_width="match_parent"
                 android:layout_height="30dp"
+                android:gravity="center_vertical"
                 android:layout_marginTop="10dp"
                 android:text="Cerrar Sesión" />
         </LinearLayout>
