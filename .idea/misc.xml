@@ -3,7 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Android_Studio/Prototipos/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/jose_/AndroidStudioProjects/Prototipos/app/src/main/res/layout/activity_favoritos.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/jose_/AndroidStudioProjects/Prototipos/app/src/main/res/layout/activity_login.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/jose_/AndroidStudioProjects/Prototipos/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/jose_/AndroidStudioProjects/Prototipos/app/src/main/res/layout/activity_numpad_contra.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/jose_/AndroidStudioProjects/Prototipos/app/src/main/res/layout/activity_options_menu.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/jose_/AndroidStudioProjects/Prototipos/app/src/main/res/layout/activity_servicios_option.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/jose_/AndroidStudioProjects/Prototipos/app/src/main/res/layout/activity_transporte.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/jose_/AndroidStudioProjects/Prototipos/app/src/main/res/layout/pantalla_inicio.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/jose_/AndroidStudioProjects/Prototipos/app/src/main/res/layout/pantalla_reportesdeuso.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/jose_/AndroidStudioProjects/Prototipos/app/src/main/res/layout/pantalla_seccionredessociales.xml" value="0.22826086956521738" />
       </map>
     </option>
   </component>
