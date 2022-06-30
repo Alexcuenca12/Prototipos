@@ -23,7 +23,7 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="252dp"
         android:fontFamily="cursive"
-        android:text="Bienvenido"
+        android:text="@string/Bienvenido"
         android:textSize="34sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

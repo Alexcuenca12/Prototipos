@@ -10,4 +10,6 @@
     <string name="ok_contra">Okey</string>
     <string name="volver_contra">Volver</string>
     <string name="labelContra">Ingresar Contraseña</string>
+    <string name="Bienvenido">Bienvenido</string>
+    <string name="RedesSociales">Redes Sociales</string>
 </resources>

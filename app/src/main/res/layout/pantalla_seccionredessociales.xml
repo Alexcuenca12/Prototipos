@@ -57,7 +57,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="72dp"
         android:fontFamily="cursive"
-        android:text="Redes Sociales"
+        android:text="@string/RedesSociales"
         android:textSize="34sp"
         app:layout_constraintBottom_toTopOf="@+id/imageView7"
         app:layout_constraintEnd_toEndOf="parent"
