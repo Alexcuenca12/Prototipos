@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/akaya_telivigala</item>
         <item>@font/alike_angular</item>
         <item>@font/almendra_sc</item>
         <item>@font/arbutus_slab</item>
+        <item>@font/castoro</item>
         <item>@font/cherry_swash_bold</item>
         <item>@font/margarine</item>
     </array>

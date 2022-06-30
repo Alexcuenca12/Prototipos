@@ -3,16 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/jose_/AndroidStudioProjects/Prototipos/app/src/main/res/layout/activity_favoritos.xml" value="0.22826086956521738" />
-        <entry key="..\:/Users/jose_/AndroidStudioProjects/Prototipos/app/src/main/res/layout/activity_login.xml" value="0.22826086956521738" />
-        <entry key="..\:/Users/jose_/AndroidStudioProjects/Prototipos/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
-        <entry key="..\:/Users/jose_/AndroidStudioProjects/Prototipos/app/src/main/res/layout/activity_numpad_contra.xml" value="0.22826086956521738" />
-        <entry key="..\:/Users/jose_/AndroidStudioProjects/Prototipos/app/src/main/res/layout/activity_options_menu.xml" value="0.22826086956521738" />
-        <entry key="..\:/Users/jose_/AndroidStudioProjects/Prototipos/app/src/main/res/layout/activity_servicios_option.xml" value="0.22826086956521738" />
-        <entry key="..\:/Users/jose_/AndroidStudioProjects/Prototipos/app/src/main/res/layout/activity_transporte.xml" value="0.22826086956521738" />
-        <entry key="..\:/Users/jose_/AndroidStudioProjects/Prototipos/app/src/main/res/layout/pantalla_inicio.xml" value="0.22826086956521738" />
-        <entry key="..\:/Users/jose_/AndroidStudioProjects/Prototipos/app/src/main/res/layout/pantalla_reportesdeuso.xml" value="0.22826086956521738" />
-        <entry key="..\:/Users/jose_/AndroidStudioProjects/Prototipos/app/src/main/res/layout/pantalla_seccionredessociales.xml" value="0.22826086956521738" />
+        <entry key="..\:/Android_Studio/Prototipos/app/src/main/res/layout/activity_configuracion.xml" value="0.38697916666666665" />
+        <entry key="..\:/Android_Studio/Prototipos/app/src/main/res/layout/activity_favoritos.xml" value="0.38697916666666665" />
+        <entry key="..\:/Android_Studio/Prototipos/app/src/main/res/layout/activity_login.xml" value="0.2015625" />
+        <entry key="..\:/Android_Studio/Prototipos/app/src/main/res/layout/activity_main.xml" value="0.27794871794871795" />
+        <entry key="..\:/Android_Studio/Prototipos/app/src/main/res/layout/activity_noticias.xml" value="0.38697916666666665" />
+        <entry key="..\:/Android_Studio/Prototipos/app/src/main/res/layout/activity_numpad_contra.xml" value="0.38697916666666665" />
+        <entry key="..\:/Android_Studio/Prototipos/app/src/main/res/layout/activity_options_menu.xml" value="0.38697916666666665" />
+        <entry key="..\:/Android_Studio/Prototipos/app/src/main/res/layout/activity_servicios_option.xml" value="0.38697916666666665" />
+        <entry key="..\:/Android_Studio/Prototipos/app/src/main/res/layout/activity_transporte.xml" value="0.38697916666666665" />
+        <entry key="..\:/Android_Studio/Prototipos/app/src/main/res/layout/pantalla_inicio.xml" value="0.38697916666666665" />
+        <entry key="..\:/Android_Studio/Prototipos/app/src/main/res/layout/pantalla_reportesdeuso.xml" value="0.38697916666666665" />
+        <entry key="..\:/Android_Studio/Prototipos/app/src/main/res/layout/pantalla_seccionredessociales.xml" value="0.38697916666666665" />
       </map>
     </option>
   </component>
