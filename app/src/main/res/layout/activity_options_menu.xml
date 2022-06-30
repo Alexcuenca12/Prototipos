@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".secciones_menu">
+    tools:context=".OptionsMenu">
 
     <LinearLayout
         android:id="@+id/linearLayout3"
@@ -108,58 +108,38 @@
     </LinearLayout>
 
     <LinearLayout
-        android:id="@+id/linearLayout5"
         android:layout_width="242dp"
         android:layout_height="61dp"
         android:layout_marginTop="20dp"
+        android:orientation="horizontal"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/linearLayout4">
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout6">
 
         <ImageButton
-            android:id="@+id/imageButton4"
+            android:id="@+id/imageButton5"
             android:layout_width="69dp"
             android:layout_height="59dp"
-            app:srcCompat="@drawable/email"
+            app:srcCompat="@drawable/news"
             tools:ignore="SpeakableTextPresentCheck" />
 
         <Space
-            android:layout_width="5dp"
-            android:layout_weight="1"
-            android:layout_height="match_parent" />
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
 
         <TextView
-            android:id="@+id/txtEmail"
+            android:id="@+id/textView9"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:fontFamily="@font/cherry_swash_bold"
-            android:text="@string/email_menu"
+            android:text="@string/news_menu"
             android:textSize="20sp" />
 
         <Space
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_weight="1" />
-
-        <Space
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_weight="1" />
-
-        <Space
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_weight="1" />
-
-        <Space
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_weight="1" />
-
-        <Space
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="54dp"
+            android:layout_height="30dp"
             android:layout_weight="1" />
 
         <Space
@@ -227,38 +207,58 @@
     </LinearLayout>
 
     <LinearLayout
+        android:id="@+id/linearLayout5"
         android:layout_width="242dp"
         android:layout_height="61dp"
         android:layout_marginTop="20dp"
-        android:orientation="horizontal"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/linearLayout6">
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout4">
 
         <ImageButton
-            android:id="@+id/imageButton5"
+            android:id="@+id/imageButton4"
             android:layout_width="69dp"
             android:layout_height="59dp"
-            app:srcCompat="@drawable/news"
+            app:srcCompat="@drawable/email"
             tools:ignore="SpeakableTextPresentCheck" />
+
+        <Space
+            android:layout_width="5dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/txtEmail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/cherry_swash_bold"
+            android:text="@string/email_menu"
+            android:textSize="20sp" />
 
         <Space
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1" />
 
-        <TextView
-            android:id="@+id/textView9"
+        <Space
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:fontFamily="@font/cherry_swash_bold"
-            android:text="@string/news_menu"
-            android:textSize="20sp" />
+            android:layout_weight="1" />
 
         <Space
-            android:layout_width="54dp"
-            android:layout_height="30dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <Space
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             android:layout_weight="1" />
 
         <Space
@@ -271,5 +271,4 @@
             android:layout_height="wrap_content"
             android:layout_weight="1" />
     </LinearLayout>
-
 </android.support.constraint.ConstraintLayout>
