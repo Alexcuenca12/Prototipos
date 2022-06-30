@@ -6,4 +6,5 @@
     <string name="email_menu">Correo</string>
     <string name="servi_menu">Servicios</string>
     <string name="news_menu">Noticias</string>
+    <string name="Servicios_op">Servicios</string>
 </resources>
